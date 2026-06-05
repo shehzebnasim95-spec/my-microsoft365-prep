@@ -24,7 +24,7 @@ For example, if i create an all managers list communication that needs to be sen
 
 <img width="618" height="412" alt="Screenshot 2026-05-10 131825" src="https://github.com/user-attachments/assets/ec51769d-b81f-4352-b7d9-fa2e5b2b7c77" />
 
-##User leaves an org
+## User leaves an org
 Problem: When a user leaves an organization it is important to be able to retain their emails and block access. For example, if Mike in Sales leaves
 the org we need to protect their data.
 Solution: I will change Mikes mailbox into a shared mailbox, add a manager to the mailbox, and then block Mike from signing in.
