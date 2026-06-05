@@ -5,6 +5,7 @@ This project is done to learn admin skills in the M365 ecosystem- sharepoint, on
 
 ## Shared mailboxes
 You can create a shared mailbox in outlook and add members to it. Here i created an itsupport mailbox so that incoming tickets are easier to track:
+
 <img width="539" height="415" alt="Screenshot 2026-03-31 005820" src="https://github.com/user-attachments/assets/fae6f9cd-5306-4bc5-b838-40695acc0405" />
 
 
