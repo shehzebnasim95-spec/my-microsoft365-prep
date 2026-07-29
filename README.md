@@ -3,7 +3,13 @@ This project is done to learn admin skills in the M365 ecosystem- sharepoint, on
 This repository is organized by having a file for each task that i accomplished
 
 
-Notes-
+# Notes-
+
 (outlook)[[outlook.md](https://github.com/shehzebnasim95-spec/my-microsoft365-prep/blob/main/outlook.md)]
 
-Labs-
+# Labs-
+
+| Date | Topic | Log |
+|------|-------|-----|
+| 2026-08-04 | Intune BitLocker not applying | [session log](path/to/file.md) |
+| 2026-07-28 | DNS misdirect | [session log](path/to/file.md) |
