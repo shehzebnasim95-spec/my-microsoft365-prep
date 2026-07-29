@@ -4,4 +4,6 @@ This repository is organized by having a file for each task that i accomplished
 
 
 Notes-
-(outlook)[https://github.com/shehzebnasim95-spec/my-microsoft365-prep/blob/main/outlook.md]
+(outlook)[outlook.md]
+
+Labs-
