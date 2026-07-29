@@ -11,5 +11,4 @@ This repository is organized by having a file for each task that i accomplished
 
 | Date | Topic | Log |
 |------|-------|-----|
-| 2026-08-04 | Intune BitLocker not applying | [session log](path/to/file.md) |
-| 2026-07-28 | DNS misdirect | [session log](path/to/file.md) |
+| 2026-08-04 |Outlook | [name of labs]
