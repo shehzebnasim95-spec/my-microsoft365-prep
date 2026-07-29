@@ -1,0 +1,12 @@
+# Scenario
+
+If a user leaves a company its important to not delete their mailbox right away otherwise all the work they did on that mailbox is lost.
+
+# Prediction
+If i delete the mailbox on Admin portal it is lost, so it needs to be converted. If I remove the users license I will have 30 days to do this before the mailbox is gone.
+
+# Implementation.
+1. Convert the mailbox into a shared mailbox
+2. Disable users login and revoke sessions.
+3. Remove licenses
+
