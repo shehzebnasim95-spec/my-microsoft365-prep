@@ -6,7 +6,7 @@ If a user leaves a company its important to not delete their mailbox right away 
 If i delete the mailbox on Admin portal it is lost, so it needs to be converted. If I remove the users license I will have 30 days to do this before the mailbox is gone.
 
 # Implementation.
-1. Convert the mailbox into a shared mailbox
+1. [Convert the mailbox into a shared mailbox](https://github.com/shehzebnasim95-spec/my-microsoft365-prep/blob/main/m365-labs/session-logs/2026-7-28-disablelogin.png)
 2. Disable users login and revoke sessions.
 3. Remove licenses
 
