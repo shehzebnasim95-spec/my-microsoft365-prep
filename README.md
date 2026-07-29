@@ -11,4 +11,4 @@ This repository is organized by having a file for each task that i accomplished
 
 | Date | Topic | Log |
 |------|-------|-----|
-| 2026-08-04 |Outlook | [m365-labs/session-logs/offboard-user]
+| 2026-08-04 |Outlook | [offboard user](m365-labs/session-logs/offboard-user)
