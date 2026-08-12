@@ -10,4 +10,4 @@ This repository is organized by having a file for each task that i accomplished
 # Labs-
 
 
- [offboard user](/offboard-user)
+ [offboard user](m365-labs/session-logs)
