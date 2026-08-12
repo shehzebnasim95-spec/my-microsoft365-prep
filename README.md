@@ -7,11 +7,7 @@ M365 admin center Identity and Access Management
 Service Administration
 Endpoint and Device Management
 
-# Notes-
+### Dive In: Labs and Configurations
+-The (outlook)[[outlook.md](https://github.com/shehzebnasim95-spec/my-microsoft365-prep/blob/main/outlook.md)] folder contains notes on exchange online
 
-(outlook)[[outlook.md](https://github.com/shehzebnasim95-spec/my-microsoft365-prep/blob/main/outlook.md)]
-
-# Labs-
-
-
- [labs](m365-labs/session-logs)
+-The  [labs](m365-labs/session-logs) folder contains various scenarios i troubleshoot through
