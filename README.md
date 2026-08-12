@@ -8,6 +8,6 @@ Service Administration
 Endpoint and Device Management
 
 ### Dive In: Labs and Configurations
--The (outlook)[[outlook.md](https://github.com/shehzebnasim95-spec/my-microsoft365-prep/blob/main/outlook.md)] folder contains notes on exchange online
+-The [[outlook.md](https://github.com/shehzebnasim95-spec/my-microsoft365-prep/blob/main/outlook.md)] folder contains notes on exchange online
 
 -The  [labs](m365-labs/session-logs) folder contains various scenarios i troubleshoot through
