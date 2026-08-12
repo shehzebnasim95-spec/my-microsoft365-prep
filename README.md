@@ -4,7 +4,9 @@ This repository is organized by having a file for each task that i accomplished
 
 ### Key Areas of Expertise Demonstrated:
 M365 admin center Identity and Access Management
+
 Service Administration
+
 Endpoint and Device Management
 
 ### Dive In: Labs and Configurations
